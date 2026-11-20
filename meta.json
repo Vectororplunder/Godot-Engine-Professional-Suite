@@ -1,0 +1,29 @@
+{
+  "repo": "godot-engine-professional-suite",
+  "product": "Godot Engine Professional Suite",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "godot-engine",
+    "godot-engine-desktop",
+    "godot-engine-release",
+    "godot-engine-windows",
+    "disk-utility",
+    "file-management",
+    "windows-utility",
+    "desktop-tools",
+    "pc-maintenance",
+    "system-admin",
+    "hardware-info",
+    "driver-management",
+    "windows-11",
+    "windows-10",
+    "desktop-software"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Godot Engine Professional Suite"
+}
